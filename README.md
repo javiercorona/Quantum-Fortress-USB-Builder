@@ -36,7 +36,7 @@ As an open-source project, we rely on community support to sustain development.
 **Support Options:**
 - ☕ [Buy us a coffee](https://example.com/donate)
 - 💰 [GitHub Sponsors](https://github.com/sponsors/yourusername)
-- 🚀 [Corporate sponsorship](mailto:sponsors@quantumfortress.dev)
+- 🚀 [Corporate sponsorship](mailto:tinyhouseshop@gmail.com)
 
 **What Your Support Enables:**
 - Security audits and code reviews
